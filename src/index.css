@@ -16,3 +16,8 @@ body {
   font-family: 'PT Mono', monospace;
   color: #af2424;
 }
+
+.header {
+  text-align: center;
+  color: #af2424;
+}

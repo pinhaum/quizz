@@ -19,7 +19,7 @@ function App() {
 
   return (
     <>
-      <h1>Quizz</h1>
+      <h1 className="header">Quizz</h1>
     </>
   );
 }
